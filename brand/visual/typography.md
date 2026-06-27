@@ -1,27 +1,63 @@
 # Typography
 
-Sora typography should feel warm, readable, architectural, and practical.
+Sora uses a two-typeface system:
 
-The type system should support both product clarity and brand warmth. It should not feel cold, overly technical, decorative, or luxury-oriented.
+- **Display face:** Marcellus
+- **Body typeface:** Inter
+
+Sora typography should feel warm, readable, architectural, and practical. The type system should support both product clarity and brand warmth. It should not feel cold, overly technical, decorative, or luxury-oriented.
 
 ## Type System
 
-Sora uses two primary typographic voices:
+Sora uses two primary typographic roles:
 
-1. Humanist sans serif
-2. Refined serif
+1. **Marcellus** for display, editorial, and brand moments
+2. **Inter** for body copy, labels, captions, UI, diagrams, and product explanation
 
-The humanist sans provides clarity, utility, and product confidence.
+Marcellus brings calm editorial warmth to larger brand expressions. Inter carries clarity, utility, product explanation, interface language, and everyday readability.
 
-The refined serif provides warmth, atmosphere, and editorial expression for larger brand moments.
+Together, they should make Sora feel practical, architectural, quietly adaptive, and approachable.
 
-## Humanist Sans Serif
+## Marcellus
 
-The humanist sans is the primary typographic direction.
+Marcellus is the display face.
 
 Use it for:
 
-- Wordmark direction
+- Major headlines
+- Campaign lines
+- Presentation covers
+- Section openers
+- Brand statements
+- Short editorial moments
+- Select wordmark explorations
+
+Marcellus should feel:
+
+- Warm
+- Calm
+- Refined
+- Architectural
+- Editorial
+- Human
+- Residential rather than luxury
+
+Avoid using Marcellus for:
+
+- Long body copy
+- Dense captions
+- Technical explanations
+- UI labels
+- Diagrams
+- Tables
+- Small text
+
+## Inter
+
+Inter is the body and utility typeface.
+
+Use it for:
+
 - Body copy
 - Product explanations
 - Diagrams
@@ -31,70 +67,30 @@ Use it for:
 - Interface moments
 - Technical descriptions
 - Functional content
+- Slide notes
+- Tables
 
-The humanist sans should feel:
+Inter should feel:
 
 - Clear
-- Warm
+- Neutral
 - Readable
 - Practical
-- Slightly organic
-- Architecturally refined
-- Human-centered
+- Trustworthy
+- Flexible
+- Contemporary without feeling cold
 
-It may have an Optima-like quality: open, elegant, subtly calligraphic, and warm without becoming decorative.
-
-Avoid sans serifs that feel:
-
-- Cold
-- Geometric
-- Tech-startup generic
-- Overly neutral
-- Mechanical
-- Futuristic
-- Compressed or aggressive
-
-## Refined Serif
-
-The refined serif is a secondary brand voice.
-
-Use it for:
-
-- Major headlines
-- Campaign lines
-- Presentation covers
-- Editorial moments
-- Brand statements
-- Larger emotional messages
-
-The refined serif should feel:
-
-- Warm
-- Calm
-- Elegant
-- Editorial
-- Atmospheric
-- Residential rather than luxury
-- Human rather than decorative
-
-Avoid serifs that feel:
-
-- Fashion-oriented
-- Fragile
-- Ornamental
-- Historical
-- Overly dramatic
-- Too formal or exclusive
+Use Inter’s weight range to create calm hierarchy. Prefer Regular, Medium, and Semibold. Use Bold sparingly.
 
 ## Wordmark Typography
 
-The Sora wordmark should use or reference a humanist sans serif direction.
-
-It should include one subtle custom detail: a modified “o” with a quiet inner curve or division suggesting transition, roof zones, or Reflect / Absorb behavior.
+The Sora wordmark may use Marcellus as a starting point or reference point, but it should be customized enough to feel ownable.
 
 The wordmark should remain simple, readable, and calm.
 
-Avoid making the wordmark overly expressive or symbolic.
+A subtle custom detail may appear in the “o,” suggesting transition, roof zones, or Reflect / Absorb behavior. This detail should feel quiet and integrated, not symbolic or decorative.
+
+Avoid making the wordmark overly expressive, ornamental, or literal.
 
 ## Hierarchy
 
@@ -102,9 +98,9 @@ Sora typography should use clear, calm hierarchy.
 
 Preferred hierarchy:
 
-- Large refined serif for major brand headlines
-- Humanist sans for subheads, body, captions, and product information
-- Small humanist sans labels for diagrams and mode indicators
+- Large Marcellus for major brand headlines
+- Inter for subheads, body, captions, diagrams, and product information
+- Small Inter labels for diagrams and mode indicators
 - Generous spacing and calm alignment
 
 Typography should feel airy and intentional, not dense or promotional.
@@ -169,9 +165,8 @@ Avoid:
 - Overly thin elegant type
 - Harsh geometric sans
 - Decorative climate typography
+- Using Marcellus for dense functional copy
 
 ## Summary
 
-Sora typography should balance clarity and warmth.
-
-The humanist sans carries product explanation and everyday usability. The refined serif creates larger emotional and campaign moments. Together, they should make Sora feel practical, architectural, and quietly adaptive.
+Sora typography balances warmth and clarity. Marcellus creates larger emotional and campaign moments. Inter carries product explanation, interface clarity, and everyday usability.

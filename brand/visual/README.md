@@ -24,9 +24,9 @@ Use the `visual/` folder when creating or reviewing:
 
 | File | Role |
 |---|---|
-| `identity.md` | Defines Sora’s overall visual identity, design personality, and the visual qualities that should guide every brand expression. |
+| `identity.md` | Defines Sora’s overall visual identity, design personality, wordmark direction, and the visual qualities that should guide every brand expression. |
 | `color.md` | Defines Sora’s material-derived color system, brand accent use, roof-mode color behavior, contrast expectations, and accessibility considerations. |
-| `typography.md` | Defines typographic tone, hierarchy, pairing logic, legibility standards, and how type should support clarity rather than decoration. |
+| `typography.md` | Defines the Marcellus / Inter type system, typographic tone, hierarchy, pairing logic, legibility standards, and how type should support clarity rather than decoration. |
 | `imagery.md` | Defines the photographic and AI-generated image direction for houses, landscapes, material studies, roof behavior, and campaign visuals. |
 | `composition.md` | Defines layout, framing, visual rhythm, image cropping, whitespace, and how Sora should be arranged across brand surfaces. |
 | `material-signature.md` | Defines Sora’s soft sculptural wave and fine striation texture as the primary material signature across roof profiles. |
@@ -119,15 +119,30 @@ Do not rely on bright green, neon blue, or generic climate-tech palettes unless 
 
 ## Typography Direction
 
-Sora typography should feel clear, modern, and calm. Type should help explain a new product category without making the brand feel cold, technical, or overly corporate.
+Sora uses Marcellus as the display face and Inter as the body typeface.
 
-Use type to create:
+Use Marcellus for:
 
-- clear hierarchy
-- concise educational moments
-- confident headlines
-- readable captions and product explanations
-- spacious, uncluttered layouts
+- major headlines
+- campaign statements
+- presentation covers
+- section openers
+- short editorial brand moments
+- select wordmark explorations
+
+Use Inter for:
+
+- body copy
+- captions
+- labels
+- diagrams
+- UI text
+- navigation
+- product explanations
+- slide notes
+- technical descriptions
+
+Typography should create clear hierarchy, concise educational moments, confident headlines, readable captions, and spacious layouts. Marcellus should bring warmth and quiet editorial character. Inter should keep the system neutral, legible, practical, and scalable.
 
 Avoid novelty type, overly futuristic type, excessive tracking, low-contrast text, and layouts where typography competes with the roof imagery.
 

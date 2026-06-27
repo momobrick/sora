@@ -20,20 +20,23 @@ Together, they should make Sora feel like a responsive architectural material sy
 
 ## Wordmark Direction
 
-The Sora wordmark should be based on a humanist sans serif direction.
+The Sora wordmark should use or reference the Marcellus display direction, with subtle customization to make it feel ownable.
 
 It should feel:
 
 - Warm
 - Architectural
 - Readable
-- Slightly organic
 - Calm
 - Refined
 - Practical
 - Human-centered
 
-The wordmark may reference an Optima-like quality: humanist, open, subtly calligraphic, and refined without feeling decorative.
+The wordmark should not feel decorative, luxury fashion-oriented, historical, overly formal, or overly technological.
+
+A subtle custom detail may appear in the “o,” suggesting Reflect / Absorb behavior, roof zones, environmental transition, or a soft threshold.
+
+The modified “o” should remain legible as part of the wordmark.
 
 Avoid wordmark styles that feel:
 
@@ -172,6 +175,6 @@ Do not make Sora feel:
 
 ## Summary
 
-Sora’s identity should be simple and ownable: a warm humanist wordmark with one quiet custom detail, supported by a distinctive material and transition system.
+Sora’s identity should be simple and ownable: a warm Marcellus-based wordmark with one quiet custom detail, supported by a distinctive material and transition system.
 
 The brand should feel like a responsive building material that belongs naturally in everyday residential architecture.
