@@ -48,6 +48,12 @@ Recommended visual:
 - Clear material quality
 - Optional split-mode or mode-transition visual
 
+## Website Typography
+
+Use Marcellus for the hero headline and major section headlines. Use Inter for body copy, navigation, UI labels, captions, product explanations, mode cards, diagrams, and interface text.
+
+The website should feel editorial and spacious, but still practical and easy to understand. Marcellus should create warmth and hierarchy; Inter should carry the functional communication.
+
 ## Product Explainer Section
 
 Use two side-by-side cards or panels:

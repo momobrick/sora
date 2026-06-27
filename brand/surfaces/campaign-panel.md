@@ -38,6 +38,12 @@ The strongest campaign panel composition includes:
 3. Optional one-sentence explanation
 4. Optional Sora wordmark or product label
 
+## Campaign Panel Typography
+
+Use Marcellus for the primary headline and any major brand statement. Use Inter for supporting copy, product labels, mode labels, and explanatory text.
+
+The campaign panel should use typography sparingly. Marcellus should create a calm, memorable display moment; Inter should keep product information clear and practical.
+
 ## Primary Campaign Copy
 
 **A roof that responds to temperature.**

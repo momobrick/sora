@@ -55,6 +55,7 @@ Across every surface:
 4. Sora should be presented as practical climate adaptation, not luxury tech or generic sustainability branding.
 5. Visuals should preserve architectural realism and avoid obvious AI artifacts.
 6. Copy should be calm, direct, and grounded.
+7. Typography should use Marcellus for display headlines and major brand statements, and Inter for body copy, captions, labels, UI text, diagrams, and product explanation.
 
 ## Surface File Roles
 

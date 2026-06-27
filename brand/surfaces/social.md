@@ -82,6 +82,12 @@ Example:
 **A roof that responds to temperature.**  
 Sora shifts between Reflect Mode and Absorb Mode based on roof surface temperature.
 
+## Social Typography
+
+Use Marcellus for short hero headlines when the format has enough space for a clear display moment. Use Inter for captions, mode labels, carousel text, interface-style details, and any small text.
+
+Because social formats are small, favor legibility. If Marcellus becomes hard to read at thumbnail size, use Inter for the text and let imagery carry the brand mood.
+
 ## Carousel Structure
 
 Use a carousel when explaining the system.

@@ -26,6 +26,12 @@ A good Sora caption answers:
 - Which mode is active?
 - Why does it matter?
 
+## Caption Typography
+
+Use Inter for product captions, labels, callouts, diagrams, UI-adjacent explanations, and governance notes. Product captions should prioritize clarity and accuracy over personality.
+
+Marcellus may be used only for nearby display headlines or major section titles. Do not use Marcellus for dense captions, technical descriptions, mode labels, or small explanatory text.
+
 ## Core Product Description
 
 Sora is a responsive roofing material that shifts between Reflect Mode and Absorb Mode based on roof surface temperature.

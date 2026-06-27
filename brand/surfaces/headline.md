@@ -27,6 +27,12 @@ A Sora headline should do one of three things:
 
 This is the clearest campaign-level statement and should be treated as the primary headline for high-impact applications.
 
+## Headline Typography
+
+Sora headlines are written for Marcellus. Keep headlines short, calm, and spacious so the display face feels intentional rather than decorative.
+
+Use Inter for supporting lines, labels, captions, and explanatory copy.
+
 ## Headline Voice
 
 Sora headlines should be:

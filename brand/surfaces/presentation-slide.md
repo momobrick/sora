@@ -45,6 +45,12 @@ Recommended hierarchy:
 3. Short explanatory note
 4. Optional metadata: touchpoint, prompt input, issue found, refinement made
 
+## Slide Typography
+
+Use Marcellus for slide titles, section dividers, presentation covers, and major brand statements. Use Inter for notes, tables, captions, metadata, process documentation, labels, and supporting copy.
+
+Slides should not overuse Marcellus. The display face should create hierarchy; Inter should carry clarity.
+
 ## Assignment 6 Slide Structure
 
 ### Slide 1: Static Touchpoint
